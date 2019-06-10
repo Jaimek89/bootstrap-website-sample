@@ -2,7 +2,7 @@
 
 ## About What
 
->Looking to improve my Bootstrap 4 skills, this sample website has been done with it.
+>Looking to improve my Bootstrap 4 skills, this sample website has been done with it, 100% responsive.
 ***
 
 ## Views
