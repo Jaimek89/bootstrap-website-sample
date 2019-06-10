@@ -1,0 +1,28 @@
+.navbar {
+    box-shadow: 2px 2px 5px black;
+    opacity: 0.9;
+}
+
+.navbar .nav-item .nav-link {
+    color: white;
+}
+
+.main-header {
+    position: relative;
+    background: url(../img/background.jpg);
+    background-size: cover;
+    min-height: 500px;
+}
+
+.background-overlay {
+    background: rgba(48, 51, 107, 0.7);
+    min-height: 500px;
+}
+
+.form-control, .btn {
+    border-radius: 0;
+}
+
+.team, footer {
+    background: #30336b;
+}
